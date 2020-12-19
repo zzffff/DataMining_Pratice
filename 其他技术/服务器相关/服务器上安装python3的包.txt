@@ -1,0 +1,5 @@
+#同时安装了python2和python3的服务器
+
+#有时候 pip install package 会默认安装Python2使用的版本（因为服务器先装的python2才装3）
+
+#要安装Python3的包，要使用python3 -m pip install 库名

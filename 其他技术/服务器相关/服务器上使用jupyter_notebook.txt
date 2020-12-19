@@ -1,0 +1,30 @@
+服务器上：
+更新完pip,安装完jupyter notebook：
+pip install --upgrade pip
+pip install jupyter
+
+服务器上进入ipython
+ipython
+from notebook.auth import passwd
+passwd()
+输入并确认密码
+得到output输出的hash值
+
+（cmd或者xshell均可以进入服务器）运行：
+jupyter notebook --no-browser --port=9494 --ip=127.0.0.1 --allow-root
+
+在xshell上配置服务器
+使用rz和sz上传和下载服务器上的文件
+
+在本地机上把服务器的jupyter与本地端口绑定
+在Anaconda prompt(或者cmd）上运行:
+ssh -N -f -L localhost:8888:localhost:9494 username@userhost
+输入服务器密码
+
+在本地浏览器上输入：
+127.1.0.0:8888
+出现对话框，此时键入在ipython时候输入确认的密码，完成。
+（没有ipython那一步的话，试着键入开启服务器jupyter notebook上时自动生成的token）
+（本密码在一个ip地址上均输入一次即可，以后不用输入）
+
+这样就可以在外部没有python环境的电脑上使用python
