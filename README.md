@@ -1,1 +1,1 @@
-# DataMining_Pratice-
+# DataMining_Pratice
