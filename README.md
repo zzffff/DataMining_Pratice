@@ -11,5 +11,6 @@
 ## 其他技术
 - [Python的类Class](https://github.com/zzffff/DataMining_Pratice/blob/main/%E5%85%B6%E4%BB%96%E6%8A%80%E6%9C%AF/python%E7%9A%84%E7%B1%BBClass/python%E7%9A%84%E7%B1%BBClass.md)
 - [服务器相关](https://github.com/zzffff/DataMining_Pratice/tree/main/%E5%85%B6%E4%BB%96%E6%8A%80%E6%9C%AF/%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9B%B8%E5%85%B3)
+- [分析思路和各种轮子](https://github.com/zzffff/DataMining_Pratice/blob/main/%E5%85%B6%E4%BB%96%E6%8A%80%E6%9C%AF/%E5%88%86%E6%9E%90%E6%80%9D%E8%B7%AF%E5%92%8C%E5%90%84%E7%A7%8D%E8%BD%AE%E5%AD%90/%E5%88%86%E6%9E%90%E6%80%9D%E8%B7%AF%E5%92%8C%E5%90%84%E7%A7%8D%E8%BD%AE%E5%AD%90/%E5%88%86%E6%9E%90%E6%80%9D%E8%B7%AF%E5%92%8C%E5%90%84%E7%A7%8D%E8%BD%AE%E5%AD%90.md)
 ## 业务学习
  
