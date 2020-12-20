@@ -1,6 +1,7 @@
 # DataMining_Pratice
 本仓库用于总结曾经做过的数据挖掘项目笔记，各种遇到的特征工程，python相关，机器学习和深度学习的技术。
 ## 实战项目和项目笔记
+- [游戏安全数据分析竞赛](https://github.com/zzffff/DataMining_Pratice/blob/main/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E5%92%8C%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/Game_safety/game-safety/README.md)
 ## 可视化相关
 - [Pokemon数据的可视化](https://github.com/zzffff/DataMining_Pratice/tree/main/%E5%8F%AF%E8%A7%86%E5%8C%96/Pokemon/Pokemon.md)
 - [中美利差 vs AH溢价](https://github.com/zzffff/DataMining_Pratice/blob/main/%E5%8F%AF%E8%A7%86%E5%8C%96/%E4%B8%AD%E7%BE%8E%E5%88%A9%E5%B7%AE%20vs%20AH%E6%BA%A2%E4%BB%B7/%E4%B8%AD%E7%BE%8E%E5%88%A9%E5%B7%AE%20vs%20AH%E6%BA%A2%E4%BB%B7.md)
