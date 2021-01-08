@@ -1,5 +1,7 @@
 # DataMining_Pratice
 本仓库用于总结曾经做过的数据挖掘项目笔记，各种遇到的特征工程，python相关，机器学习和深度学习的技术。
+## EDA
+- [数据预处理](https://github.com/zzffff/DataMining_Pratice/blob/main/Explore-Data-Analysis(EDA)/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86/README.md)
 ## 实战项目和项目笔记
 - [游戏安全技术竞赛](https://github.com/zzffff/DataMining_Pratice/blob/main/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E5%92%8C%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/game-safety/README.md)
 - [Fintech数据分析竞赛](https://github.com/zzffff/DataMining_Pratice/blob/main/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE%E5%92%8C%E9%A1%B9%E7%9B%AE%E7%AC%94%E8%AE%B0/Fin-tech/README.md)
